@@ -1,5 +1,7 @@
 {
-  "name": "worker-name",
+  "name": "simple-crud-pages",
   "compatibility_date": "2026-02-11",
-  "main": "src/main.js",
+  "assets": {
+    "directory": "./dist"
+  },
 }
